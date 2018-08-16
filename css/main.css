@@ -1,0 +1,31 @@
+body{
+    width:960px;
+    margin:auto;
+}
+h1{
+    text-align:center;
+    font-size:32px;
+    padding:20px;
+    font-family:Georgia, serif;
+}
+.content_wrapper p{
+    color:#500000;
+}
+.paragraph_1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:16px;
+    line-height:15px;
+}
+.paragraph_2{
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-weight:bolder;
+    font-size:10px;
+    line-height:1.7em;
+}
+.paragraph_3{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-weight:lighter;
+    font-size:24px;
+    line-height:1cm;
+}
